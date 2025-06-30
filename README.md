@@ -59,3 +59,43 @@ cd vof-financeiro
 
 # Suba o ambiente com Docker (quando configurado)
 docker-compose up
+```
+
+*As instruções completas para backend e frontend estarão em breve disponíveis nas pastas respectivas.*
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+vof-financeiro/
+├── backend/         # API Node.js com Express + Prisma
+├── frontend/        # Frontend Angular 20 + Tailwind
+├── docker-compose.yml
+└── README.md
+```
+
+---
+
+## 👤 Sobre o Desenvolvedor
+
+Projeto pessoal desenvolvido por **Vagner Oliveira**, com objetivo de aprendizado prático e aplicação real no controle financeiro como MEI e pessoa física.
+
+---
+
+## 📅 Status do Projeto
+
+🟡 Em desenvolvimento | Início: junho de 2025  
+🔜 Próximas etapas: prototipação no Figma, configuração inicial do backend e frontend, criação do banco de dados
+
+---
+
+## 📷 Telas (em breve)
+
+Wireframes e imagens reais do sistema serão adicionados conforme o desenvolvimento.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
